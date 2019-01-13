@@ -3,3 +3,4 @@ Packing List
 - boots
 - Shirts
 - Trousers
+- Camera
